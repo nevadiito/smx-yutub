@@ -66,6 +66,7 @@ input#buscador{
   margin: 20px 10px;
   color:#333;
 	border-radius:2px 0px 0px 2px;
+  border:
 }
 
 
@@ -78,7 +79,7 @@ button.iconomenuiz{
 	border:none;
 	outline:none;
 	border-radius:40px;
-	margin:8px 20px;
+	margin:10px 10px;
 }
 button.iconomenuiz:active{
 	background-color:#eee;
@@ -124,4 +125,7 @@ button.iconoconfig{
 }
 button.iconoconfig:active{
 	background-color:#eee;
+}
+div.headeriz{
+  vertical-align: middle;
 }
