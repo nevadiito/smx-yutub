@@ -129,23 +129,3 @@ button.iconoconfig:active{
 div.headeriz{
   vertical-align: middle;
 }
-button.iconohome{
-width: 60px;
-height: 60px;	
-padding: 8px;
-background-color: #fff;
-border: none;
-outline: none;
-border-radius: 40px;
-margin: 10px 8px;
-}
-button.iconotendencias{
-width: 60px;
-height: 60px;	
-padding: 4px;
-background-color: #fff;
-border: none;
-outline: none;
-border-radius:20px;
-margin: 1px 6px;
-
