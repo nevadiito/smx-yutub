@@ -189,14 +189,14 @@ button.iconolupa{
 	float:left;
 }
 /* Todos los articulos (cada video) */
-article.video{
+div.video{
 	display:inline-block;
 	width:210px;
 	cursor:pointer;
 	margin-right:20px;
 }
 /* Las imagenes de cada video */
-article.video img{
+div.video img{
 	height:118px;
 	width:210px;
 	float:left;
